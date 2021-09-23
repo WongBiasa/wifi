@@ -7,3 +7,9 @@ Tools ini untuk mengetahui kata sandi wifi yang pernah terhubung dengan perangka
 # Screenshot
 ![sch](https://b.top4top.io/p_2092ba1gu1.jpeg)
 
+# cara install 
+Download git di windows
+
+![git](https://git-scm.com/downloads)
+Lalu install python di windows
+![python](https://www.python.org/download/releases/2.7/)
