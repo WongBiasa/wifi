@@ -5,6 +5,5 @@ Tools ini untuk mengetahui kata sandi wifi yang pernah terhubung dengan perangka
 
 ```
 # Screenshot
-
-[!sch](https://b.top4top.io/p_2092ba1gu1.jpeg)
+![sch](https://b.top4top.io/p_2092ba1gu1.jpeg)
 
