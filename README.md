@@ -9,11 +9,12 @@ Tools ini untuk mengetahui kata sandi wifi yang pernah terhubung dengan perangka
 
 # cara install 
 
-```
+
 Download git di windows
 (https://git-scm.com/downloads)
 Lalu install python di windows
 (https://www.python.org/download/releases/2.7/)
+```
 jika sudah buka cmd dan tulis:
 C:\users>git clone https://github.com/WongBiasa/wifi.git
 C:\users>cd wifi
