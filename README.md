@@ -12,6 +12,7 @@ Tools ini untuk mengetahui kata sandi wifi yang pernah terhubung dengan perangka
 
 Download git di windows
 (https://git-scm.com/downloads)
+
 Lalu install python di windows
 (https://www.python.org/download/releases/2.7/)
 ```
@@ -20,3 +21,5 @@ C:\users>git clone https://github.com/WongBiasa/wifi.git
 C:\users>cd wifi
 C:\users>wifi.py
 ```
+# Install melalui zip
+ Download disini [zip](https://codeload.github.com/WongBiasa/wifi/zip/refs/heads/main)
