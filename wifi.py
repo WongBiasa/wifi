@@ -5,6 +5,7 @@ import time
 
 #windows(10,8,7)
 
+os.sytem('color a')
 
 banner1 = (''' 	
     
